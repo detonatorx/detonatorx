@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-https://github-readme-stats.vercel.app/api?username=detonatorx&show_icons=true&theme=dracula https://github-readme-stats.vercel.app/api/top-langs/?username=detonatorx&hide=handlebars&theme=dracula
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=detonatorx&repo=github-readme-stats)](https://github.com/detonatorx/github-readme-stats)
 
 <!--
 **detonatorx/detonatorx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
