@@ -1,7 +1,5 @@
 [![detonatorx's GitHub stats](https://github-readme-stats.vercel.app/api?username=detonatorx&count_private=true)](https://github.com/detonatorx/github-readme-stats) 
 
-###  Coding stats for the last week
-[![detonatorx's coding stats for last week](https://github-readme-stats.vercel.app/api/wakatime?username=@detonatorx)](https://github.com/detonatorx/github-readme-stats)
 
 <!--
 **detonatorx/detonatorx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
